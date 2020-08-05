@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "08dbb752556807c35c3c242d0ce62cb1",
+    "content-hash": "aa4807d56feb0afdfa504597c6b27122",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3869,7 +3869,7 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
@@ -3945,7 +3945,7 @@
         },
         {
             "name": "symfony/polyfill-iconv",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-iconv.git",
@@ -4022,16 +4022,16 @@
         },
         {
             "name": "symfony/polyfill-intl-idn",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-idn.git",
-                "reference": "bc6549d068d0160e0f10f7a5a23c7d1406b95ebe"
+                "reference": "5dcab1bc7146cf8c1beaa4502a3d9be344334251"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/bc6549d068d0160e0f10f7a5a23c7d1406b95ebe",
-                "reference": "bc6549d068d0160e0f10f7a5a23c7d1406b95ebe",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/5dcab1bc7146cf8c1beaa4502a3d9be344334251",
+                "reference": "5dcab1bc7146cf8c1beaa4502a3d9be344334251",
                 "shasum": ""
             },
             "require": {
@@ -4103,11 +4103,11 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-07-14T12:35:20+00:00"
+            "time": "2020-08-04T06:02:08+00:00"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
@@ -4188,7 +4188,7 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -4265,7 +4265,7 @@
         },
         {
             "name": "symfony/polyfill-php70",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php70.git",
@@ -4342,7 +4342,7 @@
         },
         {
             "name": "symfony/polyfill-php72",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
@@ -4415,7 +4415,7 @@
         },
         {
             "name": "symfony/polyfill-php73",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php73.git",
@@ -4491,7 +4491,7 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.18.0",
+            "version": "v1.18.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
@@ -5273,16 +5273,16 @@
         },
         {
             "name": "wordpress/gutenberg",
-            "version": "v8.6.1",
+            "version": "v8.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/gutenberg.git",
-                "reference": "a0ba0a4f024a134fac03d814e12598fc3536936b"
+                "reference": "fc6ed3e17b441d7584a32985ebdbcb1f47199706"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/gutenberg/zipball/a0ba0a4f024a134fac03d814e12598fc3536936b",
-                "reference": "a0ba0a4f024a134fac03d814e12598fc3536936b",
+                "url": "https://api.github.com/repos/WordPress/gutenberg/zipball/fc6ed3e17b441d7584a32985ebdbcb1f47199706",
+                "reference": "fc6ed3e17b441d7584a32985ebdbcb1f47199706",
                 "shasum": ""
             },
             "require": {
@@ -5293,8 +5293,7 @@
                 "phpcompatibility/php-compatibility": "^9.3",
                 "sirbrillig/phpcs-variable-analysis": "^2.8",
                 "squizlabs/php_codesniffer": "^3.5",
-                "wp-coding-standards/wpcs": "^2.2",
-                "wp-phpunit/wp-phpunit": "^5.4"
+                "wp-coding-standards/wpcs": "^2.2"
             },
             "type": "wordpress-plugin",
             "scripts": {
@@ -5320,9 +5319,9 @@
             ],
             "support": {
                 "issues": "https://github.com/WordPress/gutenberg/issues",
-                "source": "https://github.com/WordPress/gutenberg/tree/v8.6.1"
+                "source": "https://github.com/WordPress/gutenberg/tree/v8.1.0"
             },
-            "time": "2020-07-28T14:41:35+00:00"
+            "time": "2020-05-13T18:32:11+00:00"
         }
     ],
     "aliases": [],
